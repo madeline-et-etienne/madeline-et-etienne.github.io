@@ -1,6 +1,6 @@
 [//]: # ({:refdef: style="text-align: center;"})
 [//]: # (<img src="portrait-6.JPG" alt="Etienne-Madeline" width="50%"/>)
-
+test
 Bienvenue sur le site dédié à notre mariage ! Vous retrouverez ici toutes les informations concernant l'organisation pour le jour J ainsi que le lien vers le formulaire vous permettant de confirmer votre présence. N'hésitez pas à nous contacter directement si vous avez des questions supplémentaires : 
 
 | **Etienne** | **Madeline** |
