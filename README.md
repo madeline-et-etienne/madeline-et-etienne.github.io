@@ -1,6 +1,6 @@
 
-<div style="background-color: #CE6340; border-radius: 20px; height: 50px;">
-    <h1 style="color: white; font-size: 24px;">Titre 1</h1>
+<div style="background-color: #CE6340; border-radius: 5px; height: 75px;">
+    <h1 style="color: white; font-size: 32px;">   Titre 1</h1>
 </div>
 
 Bienvenue sur le site dédié à notre mariage ! Vous retrouverez ici toutes les informations concernant l'organisation pour le jour J ainsi que le lien vers le formulaire vous permettant de confirmer votre présence. N'hésitez pas à nous contacter directement si vous avez des questions supplémentaires : 
