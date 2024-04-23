@@ -1,0 +1,61 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-header {
+    background-image: url(https://github.com/Etienne-et-Madeline/Etienne-et-Madeline.github.io/blob/main/portrait-6.JPG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #5a7e64;
+}
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 6rem 6rem;
+    }
+}
+@media screen and (max-width: 64em) and (min-width: 42em){
+    .page-header {
+        padding: 5rem 4rem;
+    }
+}
+@media screen and (max-width: 42em){
+    .page-header {
+        padding: 4rem 1rem;
+    }
+}
+:root {
+  --terracotta: #cb6843;
+  --blanc:   #FFFFFF;
+}
+.material-icons {
+    font-variant: none;
+    position: relative;
+    top: .2em;
+}
+
+.main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #25549e;
+    font-weight: bold;
+}
+.main-content h1, .main-content h2, .main-content h3 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-variant: all-small-caps;
+}
+.main-content h1, .main-content h2 {
+    color: var(--blanc);
+    text-align: left;
+    text-indent: 1em;
+    font-size: 24px
+}
+.main-content h2 {
+    text-decoration: overline;
+}
+.main-content h1 {
+    background-color: var(--terracotta);
+    border-radius: 10px;
+}
+body {
+    color: #3f3f3f;
+}
