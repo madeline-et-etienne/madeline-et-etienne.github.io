@@ -49,9 +49,7 @@ De très nombreuses solutions de logement sont disponibles à Melun et dans les 
 
  <details>
 <summary><strong>Où puis-je me garer ?</strong></summary>
- <br>
-
-XXX <br>
+ XXX <br>
  <br>
  
  </details>
@@ -62,21 +60,16 @@ XXX <br>
 </details>
 
  
-</details>
 
  <details>
 <summary><strong>Puis-je inviter un +1 ?</strong></summary>
- <br>
-  
-Malheureusement ce n’est pas possible. Notre lieu de mariage peut accueillir un nombre limité de personnes pour le dîner, donc nous ne pouvons pas accepter de +1. Merci pour votre compréhension ! <br>
+ Malheureusement ce n’est pas possible. Notre lieu de mariage peut accueillir un nombre limité de personnes pour le dîner, donc nous ne pouvons pas accepter de +1. Merci pour votre compréhension ! <br>
  <br>
 
 </details>
 
  <details>
 <summary> <strong> Y a-t-il un dress-code/thème pour le mariage ?</strong> </summary>
- <br>
-
 Non, il n’y a pas de thème spécifique, toutes les couleurs sont les bienvenues. <br>
  <br>
 
@@ -84,8 +77,6 @@ Non, il n’y a pas de thème spécifique, toutes les couleurs sont les bienvenu
   
 <details>
 <summary> <strong>Y a-t-il des navettes pour rentrer ?</strong></summary>
-<br>
-
 Il n’y aura pas de taxi-navettes à disposition, mais Melun et ses environs sont bien desservis en taxi et Uber. <br>
  <br>
 
@@ -93,8 +84,6 @@ Il n’y aura pas de taxi-navettes à disposition, mais Melun et ses environs so
 
 <details>
 <summary> <strong>Y a-t-il des baby-sitters ?</strong> </summary>
-<br>
-
 Deux baby-sitters sur place permettront aux petits et aux grands de profiter au maximum de la soirée. <br>
  <br>
 
@@ -102,8 +91,6 @@ Deux baby-sitters sur place permettront aux petits et aux grands de profiter au 
   
  <details>
 <summary> <strong>A quelle heure dois-je me rendre au mariage ?</strong> </summary>
-<br>
-
 La cérémonie commence à 16h, rendez-vous à 15h45 devant l'église de Chailly-en-Bière. <br>
  <br>
 
@@ -111,8 +98,6 @@ La cérémonie commence à 16h, rendez-vous à 15h45 devant l'église de Chailly
   
 <details>
 <summary>  <strong>Est-ce que je peux apporter un cadeau au mariage ?</strong> </summary>
-<br>
-
 Merci de votre générosité ! Une urne sera à votre disposition le jour du mariage.  <br>
  <br>
 
