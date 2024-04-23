@@ -1,6 +1,3 @@
-[//]: # ({:refdef: style="text-align: center;"})
-[//]: # (<img src="portrait-6.JPG" alt="Etienne-Madeline" width="50%"/>)
-test
 Bienvenue sur le site dédié à notre mariage ! Vous retrouverez ici toutes les informations concernant l'organisation pour le jour J ainsi que le lien vers le formulaire vous permettant de confirmer votre présence. N'hésitez pas à nous contacter directement si vous avez des questions supplémentaires : 
 
 | **Etienne** | **Madeline** |
@@ -50,37 +47,67 @@ De très nombreuses solutions de logement sont disponibles à Melun et dans les 
 
 # Questions / Réponses
 
- **Où puis-je me garer ?**
+ <details>
+<summary>  **Où puis-je me garer ?**  </summary>
+ <br>
 
 XXX
- 
 
-**Où puis-je louer un vélo ?** 
+ </details>
+
+ <details>
+<summary>  **Où puis-je louer un vélo ?**   </summary>
+ <br>
 
 Vous souhaitez rejoindre le cortège à vélo mais ne possédez pas de monture ? Vous pouvez louer un vélo à proximité de la gare de Melun (contacter [Mélivélo Melun](https://melivelo.melunvaldeseine.fr/accueil) ). Quelques vélos sont également disponibles à la ferme d'Orsonville, si vous êtes intéressés, n'hésitez pas à nous le signaler.
- 
 
-**Puis-je inviter un +1 ?**
- 
+</details>
+
+ <details>
+<summary> **Puis-je inviter un +1 ?** </summary>
+ <br>
+  
 Malheureusement ce n’est pas possible. Notre lieu de mariage peut accueillir un nombre limité de personnes pour le dîner, donc nous ne pouvons pas accepter de +1. Merci pour votre compréhension !
 
-**Y a-t-il un dress-code/thème pour le mariage ?**
+</details>
+
+ <details>
+<summary>  **Y a-t-il un dress-code/thème pour le mariage ?** </summary>
+ <br>
 
 Non, il n’y a pas de thème spécifique, toutes les couleurs sont les bienvenues.
+
+</details>
   
-**Y a-t-il des navettes pour rentrer ?**
+<details>
+<summary>   **Y a-t-il des navettes pour rentrer ?** </summary>
+<br>
 
 Il n’y aura pas de taxi-navettes à disposition, mais Melun et ses environs sont bien desservis en taxi et Uber.
 
-**Y a-t-il des baby-sitters ?**
+</details>
+
+<details>
+<summary>   **Y a-t-il des baby-sitters ?** </summary>
+<br>
 
 Deux baby-sitters sur place permettront aux petits et aux grands de profiter au maximum de la soirée.
+
+</details>
   
-**A quelle heure dois-je me rendre au mariage ?**
+ <details>
+<summary>  **A quelle heure dois-je me rendre au mariage ?** </summary>
+<br>
 
 La cérémonie commence à 16h, rendez-vous à 15h45 devant l'église de Chailly-en-Bière.
+
+</details>
   
-**Est-ce que je peux apporter un cadeau au mariage ?**
+<details>
+<summary>   **Est-ce que je peux apporter un cadeau au mariage ?** </summary>
+<br>
 
 Merci de votre générosité ! Une urne sera à votre disposition le jour du mariage. 
+
+</details>
   
