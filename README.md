@@ -1,5 +1,5 @@
 
-<div style="background-color: #CE6340; border-radius: 20px; padding: 5px; height: 65px;">
+<div style="background-color: #CE6340; border-radius: 20px; height: 50px;">
     <h1 style="color: white; font-size: 24px;">Titre 1</h1>
 </div>
 
