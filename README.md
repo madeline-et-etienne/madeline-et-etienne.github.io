@@ -1,3 +1,8 @@
+<div style="background-color: #007bff; padding: 20px;">
+    <h1 style="color: white;">Header avec une image</h1>
+    <img src="URL_de_votre_image" alt="Nom de l'image">
+</div>
+
 <div style="background-color: #FFA500; border-radius: 10px; padding: 10px;">
     <h1 style="color: white;">Titre 1</h1>
 </div>
