@@ -1,13 +1,5 @@
 
-<div style="background-color: #CE6340; border-radius: 20px; padding: 20px; height: 75px;">
-    <h1 style="color: white; font-size: 24px;">Titre 1</h1>
-</div>
-
-<div style="background-color: #CE6340; border-radius: 20px; padding: 10px; height: 75px;">
-    <h1 style="color: white; font-size: 24px;">Titre 1</h1>
-</div>
-
-<div style="background-color: #CE6340; border-radius: 20px; padding: 10px; height: 65px;">
+<div style="background-color: #CE6340; border-radius: 20px; padding: 30px; height: 65px;">
     <h1 style="color: white; font-size: 24px;">Titre 1</h1>
 </div>
 
