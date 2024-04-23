@@ -2,6 +2,11 @@
     <h1 style="color: white;">Titre 1</h1>
 </div>
 
+<div style="background-color: #FFA500; border-radius: 20px; padding: 20px; width: 300px; height: 100px;">
+    <h1 style="color: white; font-size: 24px;">Titre 1</h1>
+</div>
+
+
 Bienvenue sur le site dédié à notre mariage ! Vous retrouverez ici toutes les informations concernant l'organisation pour le jour J ainsi que le lien vers le formulaire vous permettant de confirmer votre présence. N'hésitez pas à nous contacter directement si vous avez des questions supplémentaires : 
 
 | **Etienne** | **Madeline** |
