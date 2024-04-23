@@ -58,9 +58,10 @@ XXX <br>
 
  <details>
 <summary><strong>Où puis-je louer un vélo ?</strong></summary>
- <br>
 
-Vous souhaitez rejoindre le cortège à vélo mais ne possédez pas de monture ? Vous pouvez louer un vélo à proximité de la gare de Melun (contacter [Mélivélo Melun](https://melivelo.melunvaldeseine.fr/accueil) ). Quelques vélos sont également disponibles à la ferme d'Orsonville, si vous êtes intéressés, n'hésitez pas à nous le signaler. <br>
+Vous souhaitez rejoindre le cortège à vélo mais ne possédez pas de monture ? Vous pouvez louer un vélo à proximité de la gare de Melun (contacter [Mélivélo Melun](https://melivelo.melunvaldeseine.fr/accueil) ). Quelques vélos sont également disponibles à la ferme d'Orsonville, si vous êtes intéressés, n'hésitez pas à nous le signaler.
+
+<br>
  <br>
  
 </details>
