@@ -1,5 +1,6 @@
-<span style="color: blue;">Ceci est un texte en bleu.</span>
-
+<div style="background-color: #FFA500; border-radius: 10px; padding: 10px;">
+    <h1 style="color: white;">Titre 1</h1>
+</div>
 
 Bienvenue sur le site dédié à notre mariage ! Vous retrouverez ici toutes les informations concernant l'organisation pour le jour J ainsi que le lien vers le formulaire vous permettant de confirmer votre présence. N'hésitez pas à nous contacter directement si vous avez des questions supplémentaires : 
 
