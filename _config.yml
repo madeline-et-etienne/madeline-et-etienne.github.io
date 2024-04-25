@@ -2,5 +2,6 @@ title: Madeline et Etienne se marient
 description: Bienvenue sur le site dédié à notre mariage !
 
 markdown: kramdown
+theme: jekyll-theme-cayman
 
 show_downloads: false
