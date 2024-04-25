@@ -11,7 +11,7 @@
     display: none;
 }
 
-table {
+.main-content table {
     margin: auto;
     width: fit-content;
 }
