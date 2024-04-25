@@ -11,7 +11,7 @@
     display: none;
 }
 
-.main-content table {
+.main-content table, .center {
     margin: auto;
     width: fit-content;
 }
