@@ -1,0 +1,8 @@
+summary {
+    margin-block: 1em;
+    cursor: pointer;
+}
+
+summary>strong {
+    border-bottom: 1px solid grey;
+}
