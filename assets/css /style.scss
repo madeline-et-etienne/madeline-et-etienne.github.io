@@ -59,3 +59,12 @@
 body {
     color: #3f3f3f;
 }
+
+summary {
+    margin-block: 1em;
+    cursor: pointer;
+}
+
+summary>strong {
+    border-bottom: 1px solid grey;
+}
