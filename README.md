@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="style.css" rel="stylesheet">
 
 <div style="background-color: #CE6340; border-radius: 5px; height: 50px;">
     <h1 style="color: white; font-size: 32px;"> Titre 1</h1>
