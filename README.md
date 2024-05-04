@@ -1,9 +1,5 @@
 <link href="style.css" rel="stylesheet">
 
-<div style="background-color: #CE6340; border-radius: 5px; height: 50px;">
-    <h1 style="color: white; font-size: 32px;"> Titre 1</h1>
-</div>
-
 Bienvenue sur le site dédié à notre mariage ! Vous retrouverez ici toutes les informations concernant l'organisation pour le jour J ainsi que le lien vers le formulaire vous permettant de confirmer votre présence. N'hésitez pas à nous contacter directement si vous avez des questions supplémentaires : 
 
 | **Etienne** | **Madeline** |
@@ -15,7 +11,7 @@ Bienvenue sur le site dédié à notre mariage ! Vous retrouverez ici toutes les
 
 Merci de remplir le formulaire ci dessous pour nous confirmer votre présence : 
 
-<a class="center" href="https://framaforms.org/madeline-et-etienne-se-marient-1712655277">»Cliquez ici pour accéder au formulaire«</a>
+<a class="center" href="https://framaforms.org/madeline-et-etienne-se-marient-1712655277">» Cliquez ici pour accéder au formulaire «</a>
 
 # 12 Octobre 2024 : Programme de la journée 
 
@@ -97,7 +93,7 @@ Il n’y aura pas de taxi-navettes à disposition, mais Melun et ses environs so
 </details>
 
 <details>
-<summary> <strong>Y a-t-il des baby-sitters ?</strong> </summary>
+<summary> <strong>Y aura-t-il des baby-sitters ?</strong> </summary>
   <br>
 Deux baby-sitters sur place permettront aux petits et aux grands de profiter au maximum de la soirée. <br>
  <br>
