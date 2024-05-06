@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     background-color: #ffffff;
     background-position: center;
-    background-size: AUTO 100%;
+    height : 400px
     
 }
 
@@ -30,7 +30,7 @@ p, details {
 }
 @media screen and (max-width: 64em) and (min-width: 42em){
     .page-header {
-        padding: 12rem 4rem;
+        padding: 5rem 4rem;
     }
 }
 @media screen and (max-width: 42em){
