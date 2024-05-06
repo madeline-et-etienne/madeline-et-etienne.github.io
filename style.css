@@ -1,10 +1,9 @@
 
 .page-header {
-    background-image: url(https://Etienne-et-Madeline.github.io/portrait-6.JPG);
+    background-image: url(https://madeline-et-etienne.github.io/Madeline-et-Etienne.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: left;
-    background-color: #5a7e64;
+    background-color: #ffffff;
 }
 
 .page-header>h1, .page-header>h2 {
@@ -37,7 +36,7 @@ p, details {
     }
 }
 :root {
-  --terracotta: #cb6843;
+  --terracotta: #dd582e;
   --blanc:   #FFFFFF;
 }
 .material-icons {
