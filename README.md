@@ -100,7 +100,7 @@ Deux baby-sitters sur place permettront aux petits et aux grands de profiter au 
 
   
 <details>
-<summary>  <strong>Est-ce que je peux apporter un cadeau au mariage ?</strong> </summary>
+<summary>  <strong>Y a-t-il une liste de mariage ?</strong> </summary>
   <br>
 Merci de votre générosité ! Nous proposerons prochainement une liste de mariage sur ce site.  <br>
  <br>
