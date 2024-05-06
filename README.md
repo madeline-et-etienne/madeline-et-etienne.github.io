@@ -25,13 +25,15 @@ Merci de remplir le formulaire ci dessous pour nous confirmer votre présence :
 
 ⚠️ Attention, accéder à la ferme d'Orsonville n’est possible que par une seule route. Privilégiez Waze qui vous emmènera à la bonne entrée, par la rue d'Orsonville ⚠️
 
-🚋 en train : la gare la plus proche est la gare de Melun, desservie par la ligne R (en provenance de Gare de Lyon) et le RER D (en provenance de Gare de Lyon ou Châtelet). De la, il est possible de covoiturer, louer une voiture, pédaler, ...
+🚋 en train : la gare la plus proche est la gare de Melun, desservie par la ligne R (en provenance de Gare de Lyon) et le RER D (en provenance de Gare de Lyon ou Châtelet). De là, il est possible de covoiturer, louer une voiture, pédaler, ... 
 
 🚲 à vélo : 7km séparent la gare de Melun de la ferme d'Orsonville, principalement équipés de pistes cyclables. Il est possible de monter à bord des trains des lignes D et R avec son vélo (ou de venir de plus loin pour les plus courageux !). Un gîte sera à disposition des cyclistes afin de se rafraichir à l'arrivée à la ferme d'Orsonville. 
 
 Si le temps le permet, nous prévoyons un cortège à vélo entre l'eglise de Chailly-en-Bière et la ferme d'Orsonville. 4km les sépare, n'hésitez pas à nous rejoindre !
 
-🚗 en voiture : ça fonctionne aussi.
+🚗 en voiture : la ferme d'Orsonville dispose de nombreuses places de parking. L'église de Chailly-en-Bière propose une vingtaine de places, et de nombreuses autres sont disponibles dans les rues environnantes. Prévoir tout de même suffisamment de temps pour se garer !
+
+A l'approche du mariage, nous proposerons un chat afin de coordonner les déplacements et rechercher/proposer des covoiturages. 
 
 # Logement
 
@@ -52,12 +54,20 @@ De très nombreuses solutions de logement sont disponibles à Melun et dans les 
 # Questions / Réponses
 
  <details>
-<summary><strong>Où puis-je me garer ?</strong></summary>
+<summary> <strong> Y a-t-il un dress-code/thème pour le mariage ?</strong> </summary>
    <br>
- XXX <br>
+Non, il n’y a pas de thème spécifique, toutes les couleurs sont les bienvenues. <br>
  <br>
- 
- </details>
+
+</details>
+
+ <details>
+<summary> <strong>A quelle heure dois-je me rendre au mariage ?</strong> </summary>
+   <br>
+La cérémonie commence à 16h, rendez-vous à 15h45 devant l'église de Chailly-en-Bière. <br>
+ <br>
+
+</details>
 
 <details>
   <summary><strong>Où puis-je louer un vélo ?</strong></summary>
@@ -65,8 +75,6 @@ De très nombreuses solutions de logement sont disponibles à Melun et dans les 
   Vous souhaitez rejoindre le cortège à vélo mais ne possédez pas de monture ? Vous pouvez louer un vélo à proximité de la gare de Melun (contacter <a href="https://melivelo.melunvaldeseine.fr/accueil">Mélivélo Melun</a>). Quelques vélos sont également disponibles à la ferme d'Orsonville, si vous êtes intéressés, n'hésitez pas à nous le signaler.  <br>
   <br>
 </details>
-
- 
 
  <details>
 <summary><strong>Puis-je inviter un +1 ?</strong></summary>
@@ -76,13 +84,7 @@ De très nombreuses solutions de logement sont disponibles à Melun et dans les 
 
 </details>
 
- <details>
-<summary> <strong> Y a-t-il un dress-code/thème pour le mariage ?</strong> </summary>
-   <br>
-Non, il n’y a pas de thème spécifique, toutes les couleurs sont les bienvenues. <br>
- <br>
 
-</details>
   
 <details>
 <summary> <strong>Y a-t-il des navettes pour rentrer ?</strong></summary>
@@ -100,18 +102,12 @@ Deux baby-sitters sur place permettront aux petits et aux grands de profiter au 
 
 </details>
   
- <details>
-<summary> <strong>A quelle heure dois-je me rendre au mariage ?</strong> </summary>
-   <br>
-La cérémonie commence à 16h, rendez-vous à 15h45 devant l'église de Chailly-en-Bière. <br>
- <br>
 
-</details>
   
 <details>
 <summary>  <strong>Est-ce que je peux apporter un cadeau au mariage ?</strong> </summary>
   <br>
-Merci de votre générosité ! Une urne sera à votre disposition le jour du mariage.  <br>
+Merci de votre générosité ! Nous proposerons prochainement une liste de mariage sur ce site.  <br>
  <br>
 
 </details>
