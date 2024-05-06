@@ -4,6 +4,9 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-color: #ffffff;
+    background-position: center;
+    background-size: 900px;
+    
 }
 
 .page-header>h1, .page-header>h2 {
@@ -27,7 +30,7 @@ p, details {
 }
 @media screen and (max-width: 64em) and (min-width: 42em){
     .page-header {
-        padding: 5rem 4rem;
+        padding: 11rem 4rem;
     }
 }
 @media screen and (max-width: 42em){
@@ -36,7 +39,7 @@ p, details {
     }
 }
 :root {
-  --terracotta: #dd582e;
+  --terracotta: #dd592f;
   --blanc:   #FFFFFF;
 }
 .material-icons {
