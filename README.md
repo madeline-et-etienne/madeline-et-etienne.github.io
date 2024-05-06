@@ -25,13 +25,13 @@ Merci de remplir le formulaire ci dessous pour nous confirmer votre présence :
 
 ⚠️ Attention, accéder à la ferme d'Orsonville n’est possible que par une seule route. Privilégiez Waze qui vous emmènera à la bonne entrée, par la rue d'Orsonville ⚠️
 
-🚋 en train : la gare la plus proche est la gare de Melun, desservie par la ligne R (en provenance de Gare de Lyon) et le RER D (en provenance de Gare de Lyon ou Châtelet). De là, il est possible de covoiturer, louer une voiture, pédaler, ... 
+🚋 **en train** : la gare la plus proche est la gare de Melun, desservie par la ligne R (en provenance de Gare de Lyon) et le RER D (en provenance de Gare de Lyon ou Châtelet). De là, il est possible de covoiturer, louer une voiture, pédaler, ... 
 
-🚲 à vélo : 7km séparent la gare de Melun de la ferme d'Orsonville, principalement équipés de pistes cyclables. Il est possible de monter à bord des trains des lignes D et R avec son vélo (ou de venir de plus loin pour les plus courageux !). Un gîte sera à disposition des cyclistes afin de se rafraichir à l'arrivée à la ferme d'Orsonville. 
+🚲 **à vélo** : 7km séparent la gare de Melun de la ferme d'Orsonville, principalement équipés de pistes cyclables. Il est possible de monter à bord des trains des lignes D et R avec son vélo (ou de venir de plus loin pour les plus courageux !). Un gîte sera à disposition des cyclistes afin de se rafraichir à l'arrivée à la ferme d'Orsonville. 
 
 Si le temps le permet, nous prévoyons un cortège à vélo entre l'eglise de Chailly-en-Bière et la ferme d'Orsonville. 4km les sépare, n'hésitez pas à nous rejoindre !
 
-🚗 en voiture : la ferme d'Orsonville dispose de nombreuses places de parking. L'église de Chailly-en-Bière propose une vingtaine de places, et de nombreuses autres sont disponibles dans les rues environnantes. Prévoir tout de même suffisamment de temps pour se garer !
+🚗 **en voiture** : la ferme d'Orsonville dispose de nombreuses places de parking. L'église de Chailly-en-Bière propose une vingtaine de places, et de nombreuses autres sont disponibles dans les rues environnantes. Prévoir tout de même suffisamment de temps pour se garer !
 
 A l'approche du mariage, nous proposerons un chat afin de coordonner les déplacements et rechercher/proposer des covoiturages. 
 
