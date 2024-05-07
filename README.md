@@ -74,7 +74,7 @@ La cérémonie commence à 16h, rendez-vous à 15h45 devant l'église de Chailly
  <details>
 <summary><strong>Puis-je inviter un +1 ?</strong></summary>
    <br>
-   Malheureusement ce n’est pas possible. Notre lieu de mariage peut accueillir un nombre limité de personnes pour le dîner, donc nous ne pouvons pas accepter de +1. Merci pour votre compréhension ! <br>
+   Malheureusement ce n’est pas possible. Notre lieu de mariage peut accueillir un nombre limité de personnes pour le dîner, donc nous ne pouvons pas accepter de +1. Merci pour votre compréhension&nbsp! <br>
  <br>
 
 </details>
