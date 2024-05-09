@@ -28,7 +28,7 @@ Si le temps le permet, nous prévoyons un cortège à vélo entre l'eglise de Ch
 
 🚗 **en voiture** : la ferme d'Orsonville dispose de nombreuses places de parking. L'église de Chailly-en-Bière propose une vingtaine de places, et de nombreuses autres sont disponibles dans les rues environnantes. Prévoir tout de même suffisamment de temps pour se garer !
 
-A l'approche du mariage, nous proposerons un chat afin de coordonner les déplacements et rechercher/proposer des covoiturages. 
+A l'approche du mariage, nous proposerons une messagerie en ligne afin de coordonner les déplacements et rechercher/proposer des covoiturages. 
 
 # Logement
 
@@ -102,7 +102,7 @@ Deux baby-sitters sur place permettront aux petits et aux grands de profiter au 
 <details>
 <summary>  <strong>Y a-t-il une liste de mariage ?</strong> </summary>
   <br>
-Merci de votre générosité ! Nous proposerons prochainement une liste de mariage sur ce site.  <br>
+Nous proposerons prochainement une liste de mariage sur ce site. Une cagnotte sera également disponible. <br>
  <br>
 
 </details>
