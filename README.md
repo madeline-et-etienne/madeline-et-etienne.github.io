@@ -102,7 +102,7 @@ Deux baby-sitters sur place permettront aux petits et aux grands de profiter au 
 <details>
 <summary>  <strong>Y a-t-il une liste de mariage ?</strong> </summary>
   <br>
-Si vous souhaitez nous offrir un cadeau de mariage, une urne sera à votre disposition sur le lieu de la réception. Vous pouvez également nous faire un virement sur un des deux RIB suivants : <a href="[https://melivelo.melunvaldeseine.fr/accueil](https://drive.google.com/drive/folders/1HPk02tV3MT4r2oPQ4xR8Ho3P3A6JIk-H?usp=drive_link)">Lien vers nos RIB</a>
+Si vous souhaitez nous offrir un cadeau de mariage, une urne sera à votre disposition sur le lieu de la réception. Vous pouvez également nous faire un virement sur un des deux RIB suivants : <a href="https://drive.google.com/drive/folders/1HPk02tV3MT4r2oPQ4xR8Ho3P3A6JIk-H?usp=drive_link">Lien vers nos RIB</a>
  
 Cette cagnotte nous servira à compléter notre joli service de vaisselle en céramique et nos ustensiles de cuisine, à prendre des cours de salsa, à nous acheter des bouchons d'oreilles sur mesure afin de continuer la musique en toute sécurité, ... entre autres 🙂 <br>
  <br>
