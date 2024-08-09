@@ -44,6 +44,12 @@ De très nombreuses solutions de logement sont disponibles à Melun et dans les 
 | [Les Forges de Saint Martin](https://www.gites-de-france.com/fr/ile-de-france/seine-et-marne/les-forges-de-saint-martin-77g194?adults=2&children=0&infants=0) | 10km  | 10 | Gîte|
 | [Résidence Chateau du Mée](https://www.rcdm.fr/fr/) | 11km  | - | Hôtel|
 
+# Liste de mariage
+
+Si vous souhaitez nous offrir un cadeau de mariage, une urne sera à votre disposition sur le lieu de la réception. Vous pouvez également nous faire un virement sur un des deux RIB suivants :[Lien vers nos RIB](https://drive.google.com/drive/folders/1HPk02tV3MT4r2oPQ4xR8Ho3P3A6JIk-H?usp=drive_link) 
+ 
+Cette cagnotte nous servira à compléter notre joli service de vaisselle en céramique et nos ustensiles de cuisine, à prendre des cours de salsa, à nous acheter des bouchons d'oreilles sur mesure afin de continuer la musique en toute sécurité, ... entre autres 🙂
+
 ---
 
 # Questions / Réponses
@@ -96,16 +102,3 @@ Deux baby-sitters sur place permettront aux petits et aux grands de profiter au 
  <br>
 
 </details>
-  
-
-  
-<details>
-<summary>  <strong>Y a-t-il une liste de mariage ?</strong> </summary>
-  <br>
-Si vous souhaitez nous offrir un cadeau de mariage, une urne sera à votre disposition sur le lieu de la réception. Vous pouvez également nous faire un virement sur un des deux RIB suivants : <a href="https://drive.google.com/drive/folders/1HPk02tV3MT4r2oPQ4xR8Ho3P3A6JIk-H?usp=drive_link">Lien vers nos RIB</a> <br>
- 
-Cette cagnotte nous servira à compléter notre joli service de vaisselle en céramique et nos ustensiles de cuisine, à prendre des cours de salsa, à nous acheter des bouchons d'oreilles sur mesure afin de continuer la musique en toute sécurité, ... entre autres 🙂 <br>
- <br>
-
-</details>
-  
