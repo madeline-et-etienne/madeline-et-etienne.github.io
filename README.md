@@ -24,7 +24,7 @@ Merci de remplir le formulaire ci dessous pour nous confirmer votre présence :
 
 🚲 **à vélo** : 7km séparent la gare de Melun de la ferme d'Orsonville, principalement équipés de pistes cyclables. Il est possible de monter à bord des trains des lignes D et R avec son vélo (ou de venir de plus loin pour les plus courageux !). Un gîte sera à disposition des cyclistes afin de se rafraichir à l'arrivée à la ferme d'Orsonville. 
 
-Si le temps le permet, nous prévoyons un cortège à vélo entre l'eglise de Chailly-en-Bière et la ferme d'Orsonville. 4km les sépare, n'hésitez pas à nous rejoindre ! Si vous avez besoin d'informations concernant le trajet à vélo, vous pouvez contacter Violaine au 06 69 34 82 60.
+Si le temps le permet, nous prévoyons un cortège à vélo entre l'eglise de Chailly-en-Bière et la ferme d'Orsonville. 4km les sépare, n'hésitez pas à nous rejoindre ! Pour plus d'informations concernant le trajet à vélo, contacter Violaine au 06 69 34 82 60.
 
 🚗 **en voiture** : la ferme d'Orsonville dispose de nombreuses places de parking. L'église de Chailly-en-Bière propose une vingtaine de places, et de nombreuses autres sont disponibles dans les rues environnantes. Prévoir tout de même suffisamment de temps pour se garer !
 
