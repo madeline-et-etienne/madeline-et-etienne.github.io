@@ -12,7 +12,7 @@ Merci de remplir le formulaire ci dessous pour nous confirmer votre présence :
 
 ⛪️ 16:00 : Cérémonie religieuse, Eglise Saint-Paul de Chailly-en-Bière, 3 Rue du Presbytère, 77930 Chailly-en-Bière
 
-🍸 18:30 : Vin d'honneur, Ferme d'Orsonville, 1 Rue d'Orsonville, 77190 Villiers-en-Bière
+🍸 17:00 : Accueil et vin d'honneur, Ferme d'Orsonville, 1 Rue d'Orsonville, 77190 Villiers-en-Bière
 
  🍽 20:00 : Dîner à la Ferme d'Orsonville
 
